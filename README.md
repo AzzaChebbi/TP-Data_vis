@@ -42,3 +42,5 @@ Explorez les tendances et caractéristiques des chansons sur Spotify à travers 
 ![Dashboard2](https://github.com/user-attachments/assets/1bac0459-8356-4639-a241-76912cb6469c)
 
 ![Dashboard3](https://github.com/user-attachments/assets/64da6d3b-af94-491a-a499-bd0674118909)
+
+![Dashboard4](https://github.com/user-attachments/assets/2803b2d2-8765-4e7c-abb5-5ee74be8668b)
